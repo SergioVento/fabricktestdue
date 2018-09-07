@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Small / Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 6 0 3.98571429 10.4067127 3.98571429 6.55083909 0 9.16288253 0 14 5 9.14906219 10 6.55083909 10 10.4205331 6"></polygon>
+    </defs>
+    <g id="Icon-/-Small-/-Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="-&gt;" fill="#00A9E0" xlink:href="#path-1"></use>
+        <g id="Palette-/-Blue-2" mask="url(#mask-2)" fill="#00A9E0" fill-rule="nonzero">
+            <g transform="translate(-25.000000, -27.000000)" id="Rectangle">
+                <rect x="0" y="0" width="64" height="64"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

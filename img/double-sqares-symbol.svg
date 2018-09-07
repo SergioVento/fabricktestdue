@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Fabrick-v4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="✅-Home-v4" transform="translate(-465.000000, -1303.000000)" fill-rule="nonzero">
+            <g id="Group-2-Copy" transform="translate(214.000000, 1128.000000)">
+                <g id="Group-10" transform="translate(251.000000, 175.000000)">
+                    <path d="M32,64 L0,64 L0,32 L31.9915029,32 L31.9915029,64 L32,64 Z M6.50876261,57.5133988 L25.4912374,57.5133988 L25.4912374,38.4866012 L6.49176845,38.4866012 L6.49176845,57.5133988 L6.50876261,57.5133988 Z" id="Shape" fill="#0046AD"></path>
+                    <path d="M57.1297326,50.8633905 L12.3076982,50.8633905 L12.3076982,6.06797223 C12.3054646,4.45941925 12.9436344,2.91598447 14.0815815,1.7777767 C15.2195287,0.639568926 16.7638643,-1.54716084e-06 18.374281,0 L63.1794872,0 L63.1794872,44.8038226 C63.1794904,48.1517918 60.4647461,50.8671578 57.1129043,50.8717949 L57.1297326,50.8633905 Z M18.7276742,44.4508381 L56.7595112,44.4508381 L56.7595112,6.42095676 L18.7276742,6.42095676 L18.7276742,44.4508381 Z" id="Shape" fill="#009ADC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Button / Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 6 0 3.98571429 10.4067127 3.98571429 6.55083909 0 9.16288253 0 14 5 9.14906219 10 6.55083909 10 10.4205331 6"></polygon>
+    </defs>
+    <g id="Fabrick-v4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="✅-Home-v4" transform="translate(-261.000000, -3173.000000)">
+            <g id="Button-/-Icon" transform="translate(261.000000, 3173.000000)">
+                <g id="Group-12">
+                    <rect id="Rectangle" fill="#EEF2F5" fill-rule="nonzero" x="0" y="0" width="60" height="60" rx="30"></rect>
+                    <g id="Icon-/-Small-/-Arrow" transform="translate(22.504000, 25.200000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="-&gt;" fill="#00A9E0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <g id="Palette-/-Blue-2" mask="url(#mask-2)" fill="#00A9E0" fill-rule="nonzero">
+                            <g transform="translate(-25.000000, -27.000000)" id="Rectangle">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
