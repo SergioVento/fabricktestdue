@@ -60,7 +60,7 @@
 }
 /*Preload*/
 .preload{
-    background-color: #fff;
+    background-color: #0046AD;
     width: 100%;
     height: 100%;
     top: 0;
@@ -71,7 +71,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     z-index: 999;
-    background-blend-mode: luminosity;
+    background-blend-mode: lighten;
     transition: opacity 0.8s cubic-bezier(0.86, 0, 0.07, 1);
 }
 /*Font optimization*/
@@ -144,7 +144,6 @@ header{
     -moz-transition: all .6s ease;
     -o-transition: all .6s ease;
     -ms-transition: all .6s ease;
-    background-color: #fff;
     -webkit-animation-name: fadeInDownTop;
     animation-name: fadeInDownTop;
     animation-delay: .4s;

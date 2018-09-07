@@ -23,6 +23,7 @@
       }, 100);
 
       function hasScrolled() {
+          $('header').css("background-color", "#ffffff");
           var st = $(this).scrollTop();
           
           // Make sure they scroll more than delta
