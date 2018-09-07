@@ -2384,7 +2384,7 @@
 			duration: 0,
 			offset: 0,
 			triggerElement: undefined,
-			triggerHook: 0.5,
+			triggerHook: 0.84,
 			reverse: true,
 			loglevel: 2
 		},
