@@ -58,6 +58,21 @@
         url('MarkPro-Heavy.ttf') format('truetype'),
         url('MarkPro-Heavy.svg#MarkPro-Heavy') format('svg');
 }
+/*Preload*/
+.preload{
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    background-image: url("../img/logo-preload.svg");
+    background-size: initial;
+    background-position: center center;
+    background-repeat: no-repeat;
+    z-index: 999;
+    transition: opacity 0.8s cubic-bezier(0.86, 0, 0.07, 1);
+}
 /*Font optimization*/
 html {
     text-rendering: optimizeLegibility!important;
